@@ -1,2 +1,3 @@
 # helloworld_windows
-CSC 1120 GitDemo from WIndows
+## This is a subheading
+CSC 1120 *Git*Demo from **Windows**
